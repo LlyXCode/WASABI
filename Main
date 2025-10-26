@@ -362,7 +362,7 @@ end
 local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
 
 local Window = WindUI:CreateWindow({
-    Title = "LlyXCode 〢 KBG",
+	    Title = "LlyXCode 〢 WASABI",
     Icon = "lucide:mountain-snow",
     Author = "LlyXCode",
     Folder = "LlyXCode",
